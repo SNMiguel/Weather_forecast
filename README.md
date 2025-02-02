@@ -1,0 +1,1 @@
+After cloning it is advisable to change the location of the files in the python file so that it can directly point to the new location of the image files in accordance to the new file location it takes in your pc. Aside this note, this was a really fun project to make.
