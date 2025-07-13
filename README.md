@@ -33,12 +33,16 @@ A sleek, Python-powered desktop weather app built with `Tkinter`, `OpenWeatherMa
 ```bash
 git clone https://github.com/YourUsername/weather-app.git
 cd weather-app
+```
 
 ### 2. Create a .env file in the root directory
 
 ```bash
 touch .env
+```
 
 ### 3. Add your own OpenWeatherMap API key:
 
+```bash
 WEATHER_API_KEY=your_openweathermap_api_key_here
+```
