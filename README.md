@@ -31,7 +31,7 @@ A sleek, Python-powered desktop weather app built with `Tkinter`, `OpenWeatherMa
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YourUsername/weather-app.git
+git clone https://github.com/SNMiguel/weather-app.git
 cd weather-app
 ```
 
