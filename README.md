@@ -26,6 +26,16 @@ A sleek, Python-powered desktop weather app built with `Tkinter`, `OpenWeatherMa
 
 ---
 
+## 🎥 Demo
+
+Here’s a quick look at the Weather Forecast App in action:
+
+<p align="center">
+  <img src="https://i.imgur.com/YyUOCKP.gif" alt="Weather App Demo" width="600"/>
+</p>
+
+---
+
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repo
